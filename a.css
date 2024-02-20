@@ -99,11 +99,12 @@ row-gap: 3rem;
 }
 .nav-link:hover{
     transform: scale(1.1);
-     color: #fb9b21;
+
 }
 .b{
     background-color: var(--theme-color);
 }
-.section{
+.container{
     padding: 3rem;
+    text-align: center;
 }
